@@ -1,0 +1,13 @@
+{
+  "name": "oo",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "oo.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
